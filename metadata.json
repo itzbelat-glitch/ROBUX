@@ -1,0 +1,6 @@
+{
+  "name": "BloxGift - Roblox Robux Gifting & Claim Hub",
+  "description": "Interactive Roblox community portal for World Zero group members: real-time profile lookup, community Robux claim pool, gifting, and live transaction ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
